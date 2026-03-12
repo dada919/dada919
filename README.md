@@ -27,9 +27,11 @@ Me chamo Agda, tenho 16 anos e sou natural do Ceará. Estudante de **Desenvolvim
     </a>
 </p>
 
+
 ---
 
-### 🍒 Sobre mim
+
+### 🍒 *Sobre mim*
 
 <img align="right" alt="Cereja GIF" height="150" src="https://i.pinimg.com/originals/5e/11/97/5e1197d0e5c0e8b3b8c7e3b5b8c3b5e3.gif" />
 
@@ -40,7 +42,9 @@ Me chamo Agda, tenho 16 anos e sou natural do Ceará. Estudante de **Desenvolvim
 
 <br clear="right"/>
 
+
 ---
+
 
 ### 🍒 Tecnologias e Ferramentas
 
@@ -131,7 +135,9 @@ Me chamo Agda, tenho 16 anos e sou natural do Ceará. Estudante de **Desenvolvim
     />
 </div>
 
+
 ---
+
 
 ### 🌸 Vamos nos conectar?
 
