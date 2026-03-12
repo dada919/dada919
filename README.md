@@ -1,16 +1,202 @@
-## Hi there 👋
+# 🍒 Maria Agda .
 
-<!--
-**dada919/dada919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedora de Sistemas em Formação`**
 
-Here are some ideas to get you started:
+Me chamo Agda, tenho 16 anos e sou natural do Ceará. Estudante de **Desenvolvimento de Sistemas** na EEEP Alfredo Nunes de Melo, onde desenvolvo projetos escolares unindo tecnologia e criatividade. Sou apaixonada por *música* e atualidades, o que me mantém sempre curiosa e antenada!
+<p align="left">
+    <a href="https://github.com/mariaagda?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/mariaagda?color=ff9eb5&labelColor=ff8099&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+    <a href="https://github.com/mariaagda?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/mariaagda?color=ffb6c1&labelColor=ff9eb5&style=for-the-badge&logo=star&label=Estrelas"
+        />
+    </a>
+    <a href="https://github.com/mariaagda?tab=repositories">
+        <img 
+            alt="Projetos" 
+            title="Meus Projetos" 
+            src="https://custom-icon-badges.demolab.com/badge/-Meus%20Projetos-ffc0cb?style=for-the-badge&logo=repo&logoColor=white&labelColor=ff9eb5"
+        />
+    </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🍒 Sobre mim
+
+<img align="right" alt="Cereja GIF" height="150" src="https://i.pinimg.com/originals/5e/11/97/5e1197d0e5c0e8b3b8c7e3b5b8c3b5e3.gif" />
+
+- 🎓 Estudante de **Desenvolvimento de Sistemas** 
+- 🌸 Amante de música e organização
+- 🍒 Sempre aprendendo coisas novas
+- 💻 Em busca do primeiro estágio na área
+
+<br clear="right"/>
+
+---
+
+### 🍒 Tecnologias e Ferramentas
+
+<div align="left">
+    <img 
+        alt="HTML" 
+        title="HTML" 
+        width="40px" 
+        style="padding-right: 10px; margin-bottom: 5px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    />
+    <img 
+        alt="CSS" 
+        title="CSS"
+        width="40px" 
+        style="padding-right: 10px; margin-bottom: 5px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    />
+    <img 
+        alt="JavaScript" 
+        title="JavaScript"
+        width="40px" 
+        style="padding-right: 10px; margin-bottom: 5px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    />
+    <img 
+        alt="TypeScript"
+        title="TypeScript" 
+        width="40px" 
+        style="padding-right: 10px; margin-bottom: 5px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+    />
+    <img 
+        alt="React"
+        title="React" 
+        width="40px" 
+        style="padding-right: 10px; margin-bottom: 5px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+    />
+    <img 
+        alt="Node.js" 
+        title="Node.js"
+        width="40px" 
+        style="padding-right: 10px; margin-bottom: 5px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+    />
+    <img 
+        alt="Python" 
+        title="Python"
+        width="40px" 
+        style="padding-right: 10px; margin-bottom: 5px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    />
+    <img 
+        alt="Java" 
+        title="Java"
+        width="40px" 
+        style="padding-right: 10px; margin-bottom: 5px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+    />
+    <img 
+        alt="Git" 
+        title="Git"
+        width="40px" 
+        style="padding-right: 10px; margin-bottom: 5px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    />
+    <img 
+        alt="MySQL" 
+        title="MySQL"
+        width="40px" 
+        style="padding-right: 10px; margin-bottom: 5px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+    />
+    <img 
+        alt="Figma" 
+        title="Figma"
+        width="40px" 
+        style="padding-right: 10px; margin-bottom: 5px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
+    />
+    <img 
+        alt="VS Code" 
+        title="VS Code"
+        width="40px" 
+        style="padding-right: 10px; margin-bottom: 5px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
+    />
+</div>
+
+---
+
+### 🍒 Projetos em Destaque
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mariaagda&repo=SEU-REPO-AQUI&show_owner=true&bg_color=fff5f7&title_color=ff8099&icon_color=ff9eb5&text_color=333&border_color=ffb6c1)](https://github.com/mariaagda/SEU-REPO-AQUI)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mariaagda&repo=SEU-REPO-AQUI&show_owner=true&bg_color=fff5f7&title_color=ff8099&icon_color=ff9eb5&text_color=333&border_color=ffb6c1)](https://github.com/mariaagda/SEU-REPO-AQUI)
+
+
+---
+
+### 🍒 GIFs Animados para Decorar
+
+<div align="center">
+    <img height="100" src="https://i.pinimg.com/originals/4b/8b/7e/4b8b7e9c3b5d8e9c4b8b7e9c3b5d8e9c.gif" />
+    <img height="100" src="https://i.pinimg.com/originals/3a/6d/5c/3a6d5c9e8b7a4f6d8b9c3e5f7a8d9c0b.gif" />
+    <img height="100" src="https://i.pinimg.com/originals/7c/9e/4d/7c9e4d8f6a3b2c1e5d7f9a8b6c3d4e5f.gif" />
+</div>
+
+---
+
+### 📊 Estatísticas no GitHub
+
+<div align="center">
+    <img 
+        alt="GitHub Stats" 
+        height="180" 
+        src="https://github-readme-stats.vercel.app/api?username=mariaagda&show_icons=true&include_all_commits=true&locale=pt-br&bg_color=fff5f7&title_color=ff8099&icon_color=ff9eb5&text_color=333&border_color=ffb6c1" 
+    />
+    <img 
+        alt="Top Langs" 
+        height="180" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaagda&layout=compact&custom_title=Tecnologias%20mais%20usadas&langs_count=8&bg_color=fff5f7&title_color=ff8099&text_color=333&border_color=ffb6c1" 
+    />
+</div>
+
+---
+
+### 🍒 Gráfico de Atividades
+
+<img 
+    alt="GitHub Activity Graph" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=mariaagda&theme=github-light&bg_color=fff5f7&color=ff8099&line=ff9eb5&point=ffb6c1&area=true&area_color=ffe4e9&border_color=ffb6c1&hide_border=true" 
+    width="100%"
+/>
+
+---
+
+### 🌸 Vamos nos conectar?
+
+<p align="left">
+    <a href="https://www.linkedin.com/in/mariaagda" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-ff9eb5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=ff8099" alt="LinkedIn"/>
+    </a>
+    <a href="https://instagram.com/mariaagda" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-ffb6c1?style=for-the-badge&logo=instagram&logoColor=white&labelColor=ff9eb5" alt="Instagram"/>
+    </a>
+    <a href="mailto:maria.agda@email.com">
+        <img src="https://img.shields.io/badge/Email-ffc0cb?style=for-the-badge&logo=gmail&logoColor=white&labelColor=ff9eb5" alt="Email"/>
+    </a>
+</p>
+
+---
+
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=100&section=footer&text=🍒%20Com%20carinho,%20Maria%20Agda%20🍒&fontSize=20&fontColor=ff8099"/>
+</p>
+
+<img src="https://i.pinimg.com/originals/8e/3e/7f/8e3e7f5c9b3d2a8e7c5d9b3f4a6c7d8e.gif" width="100%" height="2"/>
