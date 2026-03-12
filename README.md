@@ -133,52 +133,6 @@ Me chamo Agda, tenho 16 anos e sou natural do Ceará. Estudante de **Desenvolvim
 
 ---
 
-### 🍒 Projetos em Destaque
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mariaagda&repo=SEU-REPO-AQUI&show_owner=true&bg_color=fff5f7&title_color=ff8099&icon_color=ff9eb5&text_color=333&border_color=ffb6c1)](https://github.com/mariaagda/SEU-REPO-AQUI)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mariaagda&repo=SEU-REPO-AQUI&show_owner=true&bg_color=fff5f7&title_color=ff8099&icon_color=ff9eb5&text_color=333&border_color=ffb6c1)](https://github.com/mariaagda/SEU-REPO-AQUI)
-
-
----
-
-### 🍒 GIFs Animados para Decorar
-
-<div align="center">
-    <img height="100" src="https://i.pinimg.com/originals/4b/8b/7e/4b8b7e9c3b5d8e9c4b8b7e9c3b5d8e9c.gif" />
-    <img height="100" src="https://i.pinimg.com/originals/3a/6d/5c/3a6d5c9e8b7a4f6d8b9c3e5f7a8d9c0b.gif" />
-    <img height="100" src="https://i.pinimg.com/originals/7c/9e/4d/7c9e4d8f6a3b2c1e5d7f9a8b6c3d4e5f.gif" />
-</div>
-
----
-
-### 📊 Estatísticas no GitHub
-
-<div align="center">
-    <img 
-        alt="GitHub Stats" 
-        height="180" 
-        src="https://github-readme-stats.vercel.app/api?username=mariaagda&show_icons=true&include_all_commits=true&locale=pt-br&bg_color=fff5f7&title_color=ff8099&icon_color=ff9eb5&text_color=333&border_color=ffb6c1" 
-    />
-    <img 
-        alt="Top Langs" 
-        height="180" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaagda&layout=compact&custom_title=Tecnologias%20mais%20usadas&langs_count=8&bg_color=fff5f7&title_color=ff8099&text_color=333&border_color=ffb6c1" 
-    />
-</div>
-
----
-
-### 🍒 Gráfico de Atividades
-
-<img 
-    alt="GitHub Activity Graph" 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=mariaagda&theme=github-light&bg_color=fff5f7&color=ff8099&line=ff9eb5&point=ffb6c1&area=true&area_color=ffe4e9&border_color=ffb6c1&hide_border=true" 
-    width="100%"
-/>
-
----
-
 ### 🌸 Vamos nos conectar?
 
 <p align="left">
