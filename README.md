@@ -40,7 +40,6 @@ Me chamo Agda, tenho 16 anos e sou natural do Ceará. Estudante de **Desenvolvim
 - 🍒 Sempre aprendendo coisas novas
 - 💻 Em busca do primeiro estágio na área
 <br clear="right"/>
-
 ---
 
 ### 🍒 Tecnologias e Ferramentas
