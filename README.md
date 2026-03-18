@@ -139,7 +139,7 @@ Me chamo Agda, tenho 16 anos e sou natural do Ceará. Estudante de **Desenvolvim
 ---
 
 
-### 🌸 Vamos nos conectar?
+### 🌸 
 
 <p align="left">
     <a href="https://www.linkedin.com/in/mariaagda" target="_blank">
@@ -153,10 +153,3 @@ Me chamo Agda, tenho 16 anos e sou natural do Ceará. Estudante de **Desenvolvim
     </a>
 </p>
 
----
-
-<p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=100&section=footer&text=🍒%20Com%20carinho,%20Maria%20Agda%20🍒&fontSize=20&fontColor=ff8099"/>
-</p>
-
-<img src="https://i.pinimg.com/originals/8e/3e/7f/8e3e7f5c9b3d2a8e7c5d9b3f4a6c7d8e.gif" width="100%" height="2"/>
